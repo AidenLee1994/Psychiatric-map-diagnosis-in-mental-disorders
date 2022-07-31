@@ -18,6 +18,17 @@ pMAP/generate_pMAP.m
 
 classify/coding/*
 
+### Data access:
+
+**Original data:** NCBI GEO GSE71443
+
+**Result data:**  link: https://pan.baidu.com/s/1hyhWofLM48AKS7UolHWwAg 
+
+​						code: scut
+
+
+
+
 
 
 
